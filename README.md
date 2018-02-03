@@ -1,0 +1,1 @@
+# liferay-extra-portlet-configuration
